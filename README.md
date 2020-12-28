@@ -26,7 +26,6 @@ Here is the overview of the system
 This project involves the Term 2 Simulator which can be downloaded [here](https://github.com/udacity/self-driving-car-sim/releases)
 
 First, run following three commands from the command line
-
 1. ./clean.sh
 2. ./build.sh
 3. ./run.sh
